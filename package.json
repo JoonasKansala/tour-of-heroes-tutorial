@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JoonasKansala/tour-of-heroes-tutorial/issues"
   },
-  "homepage": "https://github.com/JoonasKansala/tour-of-heroes-tutorial#readme"
+  "homepage": "https://github.com/JoonasKansala/tour-of-heroes-tutorial#readme",
+  "devDependencies": {
+    "@angular/cli": "^1.7.3"
+  }
 }
